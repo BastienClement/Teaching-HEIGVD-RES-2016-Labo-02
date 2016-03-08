@@ -3,3 +3,6 @@
 *.iml
 /output.csv
 /target
+*.aux
+*.log
+*.synctex.gz
